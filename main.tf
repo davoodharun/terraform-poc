@@ -5,6 +5,6 @@ module "web_tier_6" {
   version = "1.0.5"
   project_name = "POC"
   project_short_name = "poc"
-  regionPrefix = "E"
+  regionPrefix = "C"
   tierPrefix = "S"
 }
